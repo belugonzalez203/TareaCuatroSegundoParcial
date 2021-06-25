@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Administrativo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Administrativo\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nombre\ codigo\ carnet\ areaTrabajo
+comment1.target=Administrativo(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=hrsTrabajo\ antiguedad
+comment2.target=java.lang.String\ calcularVacaciones(int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ mostrarDatos()
+numComments=4
